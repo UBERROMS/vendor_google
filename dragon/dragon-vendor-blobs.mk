@@ -15,6 +15,7 @@
 PRODUCT_COPY_FILES += \
     vendor/google_devices/dragon/proprietary/bin/tsec_service:system/bin/tsec_service \
     vendor/google_devices/dragon/proprietary/bin/vkinfo:system/bin/vkinfo \
+    vendor/google_devices/dragon/proprietary/etc/sysconfig/nexus.xml:system/etc/sysconfig/nexus.xml \
     vendor/google_devices/dragon/proprietary/acr_ucode.bin:root/vendor/firmware/nouveau/acr_ucode.bin \
     vendor/google_devices/dragon/proprietary/fecs.bin:root/vendor/firmware/nouveau/fecs.bin \
     vendor/google_devices/dragon/proprietary/fecs_sig.bin:root/vendor/firmware/nouveau/fecs_sig.bin \
